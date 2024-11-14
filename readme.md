@@ -19,15 +19,17 @@ Welcome to **BubblesBotDefender**, built exclusively for our Twitch streamers! T
 - **User-Defined Commands**: Customize your own commands to engage your audience in unique and interactive ways, enhancing the live streaming experience for both you and your viewers.
 - **Additional Cool Features**: We're continuously developing new features to further enhance your streaming and community management capabilities, keeping you ahead of the curve.
 
-# COMING SOON !!!
-## adding to bubblesbotdefender
-- point system 
-- level system
-- timer messages 
-- now live message to channel when streamer goes live 
-- shoutout for for channel for bit donations for when user donates to streamers channel
-- shoutout for channel subscriptions for when user subs to streamers channel
-- figure out how to add giveaway function to bubblesbotdefender
+## Upcoming Features for BubblesBotDefender 🎉
+
+### To-Do List
+- [ ] Point System
+- [ ] Level System
+- [ ] Timer Messages
+- [ ] "Now Live" Notification for Channel (auto-posts when streamer goes live)
+- [ ] Shoutout for Bit Donations (auto-shouts out users when they donate bits to the channel)
+- [ ] Shoutout for Subscriptions (auto-shouts out users when they subscribe to the channel)
+- [ ] Giveaway Functionality (research and implement a giveaway feature)
+
 
 ## Built With
 
