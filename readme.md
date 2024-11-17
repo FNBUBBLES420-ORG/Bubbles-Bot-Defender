@@ -30,7 +30,6 @@ Welcome to **BubblesBotDefender**, built exclusively for our Twitch streamers! T
 - [ ] Shoutout for Subscriptions (auto-shouts out users when they subscribe to the channel)
 - [ ] Giveaway Functionality (research and implement a giveaway feature)
 - [ ] sus links like spammy or malware type links have bot auto remove them from chat if sent
-- [ ] 
 
 
 ## Built With
