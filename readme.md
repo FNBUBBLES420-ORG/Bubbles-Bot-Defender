@@ -29,6 +29,8 @@ Welcome to **BubblesBotDefender**, built exclusively for our Twitch streamers! T
 - [ ] Shoutout for Bit Donations (auto-shouts out users when they donate bits to the channel)
 - [ ] Shoutout for Subscriptions (auto-shouts out users when they subscribe to the channel)
 - [ ] Giveaway Functionality (research and implement a giveaway feature)
+- [ ] sus links like spammy or malware type links have bot auto remove them from chat if sent
+- [ ] 
 
 
 ## Built With
@@ -37,9 +39,6 @@ Welcome to **BubblesBotDefender**, built exclusively for our Twitch streamers! T
 - **TMI.js (Twitch Messaging Interface)**: A powerful library specifically designed to interact with Twitch's chat and API functionalities.
 - **Express.js**: This lightweight framework helps manage the bot's server and API endpoints with efficiency.
 - ***Unknown*** - unknown location where bot is being hosted
-
-## Screenshot
-![Pic](https://github.com/FNBUBBLES420-ORG/bubblesbotdefender/blob/main/screenshot.png)
 
 ## Discord Invite
 - **[Server Invite Link - Click to Join](https://discord.gg/HEq9FB85M2)**
