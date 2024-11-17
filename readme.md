@@ -24,8 +24,8 @@ Welcome to **BubblesBotDefender**, built exclusively for our Twitch streamers! T
 ### To-Do List
 - [ ] Point System
 - [ ] Level System
-- [ ] Timer Messages
-- [ ] "Now Live" Notification for Channel (auto-posts when streamer goes live)
+- [x] Timer Messages
+- [x] "Now Live" Notification for Channel (auto-posts when streamer goes live)
 - [ ] Shoutout for Bit Donations (auto-shouts out users when they donate bits to the channel)
 - [ ] Shoutout for Subscriptions (auto-shouts out users when they subscribe to the channel)
 - [ ] Giveaway Functionality (research and implement a giveaway feature)
