@@ -31,6 +31,9 @@ Welcome to **BubblesBotDefender**, built exclusively for our Twitch streamers! T
 - [ ] Giveaway Functionality (research and implement a giveaway feature)
 - [ ] sus links like spammy or malware type links have bot auto remove them from chat if sent
 
+## Known Issues
+- live now timer cuts the bot out
+- custome timer message cuts the bot out
 
 ## Built With
 
